@@ -1,5 +1,5 @@
 # bookstore_analysis_queries.sql
-# Online Bookstore SQL Analysis
+
 
 This project analyses an online bookstore dataset using SQL.
 
