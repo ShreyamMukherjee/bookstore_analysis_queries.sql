@@ -19,6 +19,13 @@ The project answers several business questions such as:
 - How much inventory remains after fulfilling orders?
 - Which cities have the most customers?
 
+  
+## Key Insights
+- A small group of customers contributes significantly to total revenue.
+- Certain genres dominate book sales.
+- Some books have very low remaining stock after fulfilling orders.
+- Order patterns vary across customers and categories.
+
 ## Tools Used
 - MySQL
 - SQL
