@@ -1,7 +1,7 @@
-# bookstore_analysis_queries.sql
+# 📊 Online Bookstore SQL Analysis
 
 
-This project analyses an online bookstore dataset using SQL.
+This project focuses on analyzing an online bookstore dataset using SQL to extract insights related to sales, customers, and inventory.
 
 ## Dataset
 The dataset contains information about:
